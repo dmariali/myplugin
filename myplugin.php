@@ -33,7 +33,7 @@ function myplugin_options_default(){
 
     return array(
         'custom_url'    => 'https://wordpress.org', 
-        'custom_title'  => 'Powered by Haterade', 
+        'custom_title'  => 'Powered by FairyDust!', 
         'custom_style'  => 'disable', 
         'custom_message'=> '<p class="custom-message"> My custom Message </p>', 
         'custom_footer' => 'Special Message for users... so very special', 
